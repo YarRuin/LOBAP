@@ -45,7 +45,7 @@ You must have:
    - Find **Library of Babel** in the game list
    - Configure your options
    - Enter your player name
-   - Click **Export Options** and save the YAML file
+   - Click **Export Options** and save the YAML file into *Players* folder
 
 3. Place all player YAML files into the same folder
 
