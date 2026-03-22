@@ -35,38 +35,30 @@ You must have:
    - Double-click `LOBAP.apworld`
    - It will automatically install into Archipelago
 
-## How to start Archipelago session
-*Make sure you've done every step of installation right*
+## How to start an Archipelago session
 
-1. Open *Archipelago Launcher*
+*Make sure installation is complete before proceeding*
 
-2. Find and open *Options Creator*
+1. Open **Archipelago Launcher**
 
-3. Unfortunately there's no game search, so scroll game list at left side of options creator until you find *Library of Babel*
+2. Open **Options Creator**
+   - Find **Library of Babel** in the game list
+   - Configure your options
+   - Enter your player name
+   - Click **Export Options** and save the YAML file
 
-4. Configure your game options. You can hover your cursor to an option to view its description.
+3. Place all player YAML files into the same folder
 
-5. Dont forget to type player name
+4. Open **Generate** in Archipelago Launcher
 
-6. Click *Export Options*, save yaml file
+5. After generation:
+   - Go to https://archipelago.gg/
+   - Click **Start Playing**
+   - Click **Host a pre-generated game**
+   - Upload the generated `.zip` file  
+     (usually located in `C:\ProgramData\Archipelago\output`)
 
-7. Close options creator. Now you have saved your player options, place yamls of other players at same directory.
-
-8. Head back to Archipelago Launcher
-
-9. Find *Generate*, open it
-
-10. After window closes itself, go to *[archipelago.gg](https://archipelago.gg/)*
-
-11. Click *Start Playing*
-
-12. Click *host a pre-generated game*
-
-13. Click *Upload File*
-
-14. Go to C:\ProgramData\Archipelago\output folder and double click on generated Zip file
-
-15. Click *Create New Room*
+6. Create the room
 
 ## Connecting to Archipelago
 
