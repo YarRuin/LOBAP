@@ -25,7 +25,7 @@ You must have:
 
 3. Download LOBAP.zip and LOBAP.apworld from latest release
 
-4. Extract the zip into your Library of Ruina folder
+4. Extract the zip into your Library of Ruina folder.
    Your folder structure should look like:
    Library Of Ruina/BepInEx/...
    
