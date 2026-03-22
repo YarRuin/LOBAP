@@ -78,4 +78,4 @@ You must have:
 
 Probally there will be a lot of bugs, please report them at github issues or discord.
 
-For now mod is on BepInEx, later i'll move it to workshop.
+For now mod is on BepInEx, later i'll move it to steam workshop.
