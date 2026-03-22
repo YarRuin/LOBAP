@@ -26,14 +26,13 @@ You must have:
 3. Download LOBAP.zip and LOBAP.apworld from latest release
 
 4. Extract the zip into your Library of Ruina folder
-   *Mod is based on BepInEx for now, it is already inside zip, no separate installation is required.*
    Your folder structure should look like:
    Library of Ruina/
    └── BepInEx/
        └── plugins/
            └── LOBAP/
    
-5. Double click on LOBAP.apworld (it will auto-install to your Archipleago folder)
+6. Double click on LOBAP.apworld (it will auto-install to your Archipleago folder)
 
 ## How to start Archipelago session
 *Make sure you've done every step of installation right*
