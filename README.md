@@ -1,4 +1,4 @@
-Library of Babel is a mod for Library of Ruina that reworks entire game, so it becomes more challanging and interesting to play.
+Library of Babel is a mod for Library of Ruina that significantly reworks the game, making it more challenging and engaging.
 
 LOBAP is an Archipelago integration mod for Library of Babel.
 It turns Library of Babel progression (Key/Battle pages, Abnormalities, EGO etc.) into Archipelago items and locations, allowing multiworld randomization with other games.
@@ -7,7 +7,7 @@ It turns Library of Babel progression (Key/Battle pages, Abnormalities, EGO etc.
 
 This mod **requires Library of Babel**.
 
-LOBAP is NOT a standalone mod and will not work with vanilla Library of Ruina.
+LOBAP is NOT a standalone mod and will NOT work with vanilla Library of Ruina.
 
 You must have:
 - Library of Ruina game
@@ -17,20 +17,24 @@ You must have:
 ## Installation
 
 1. Install Library of Babel
-   - Go to ***Library of Babel Official*** Discord Server
-   - Find ***installation-info***
+   - Go to the **Library of Babel Official** Discord
+   - Find **installation-info**
    - Follow the instructions
-  
-2. Install latest realease of Archipelago **[here](https://github.com/ArchipelagoMW/Archipelago/releases/)**
 
-3. Download LOBAP.zip and LOBAP.apworld from latest release
+2. Install latest version of Archipelago  
+   https://github.com/ArchipelagoMW/Archipelago/releases/
 
-4. Extract the zip into your Library of Ruina folder.
+3. Download `LOBAP.zip` and `LOBAP.apworld` from the latest release
+
+4. Extract `LOBAP.zip` into your Library of Ruina folder
 
    Your folder structure should look like:
-   Library Of Ruina/BepInEx/...
-   
-6. Double click on LOBAP.apworld (it will auto-install to your Archipleago folder)
+   Library of Ruina/
+   └── BepInEx/
+
+5. Install the apworld:
+   - Double-click `LOBAP.apworld`
+   - It will automatically install into Archipelago
 
 ## How to start Archipelago session
 *Make sure you've done every step of installation right*
