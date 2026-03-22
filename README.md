@@ -74,3 +74,8 @@ You must have:
    - Player name
    - Password (if required)
 4. Connect
+##
+
+Probally there will be a lot of bugs, please report them at github issues or discord.
+
+For now mod is on BepInEx, later i'll move it to workshop.
