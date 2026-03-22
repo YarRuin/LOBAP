@@ -27,10 +27,7 @@ You must have:
 
 4. Extract the zip into your Library of Ruina folder
    Your folder structure should look like:
-   Library of Ruina/
-   └── BepInEx/
-       └── plugins/
-           └── LOBAP/
+   Library Of Ruina/BepInEx/...
    
 6. Double click on LOBAP.apworld (it will auto-install to your Archipleago folder)
 
