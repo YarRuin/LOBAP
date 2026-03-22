@@ -21,7 +21,7 @@ You must have:
    - Find ***installation-info***
    - Follow the instructions
   
-2. Install latest realease of Archipelago **[here](https://github.com/ArchipelagoMW/Archipelago/releases/)** (Install Setup.Archipelago.0.X.X.exe if youre using Windows)
+2. Install latest realease of Archipelago **[here](https://github.com/ArchipelagoMW/Archipelago/releases/)**
 
 3. Download LOBAP.zip and LOBAP.apworld from latest release
 
