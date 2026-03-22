@@ -29,9 +29,8 @@ You must have:
 4. Extract `LOBAP.zip` into your Library of Ruina folder
 
    Your folder structure should look like:
-   Library of Ruina/
-   └── BepInEx/
-
+   Library of Ruina/BepInEx/
+   
 5. Install the apworld:
    - Double-click `LOBAP.apworld`
    - It will automatically install into Archipelago
