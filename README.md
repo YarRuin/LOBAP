@@ -38,9 +38,9 @@ You must have:
 ## How to start Archipelago session
 *Make sure you've done every step of installation right*
 
-1. Open *Archipelago folder*/Open *Archipelago Launcher*
+1. Open *Archipelago Launcher*
 
-2. Find and open *ArchipelagoOptionsCreator.exe*/Find and open *Options Creator*
+2. Find and open *Options Creator*
 
 3. Unfortunately there's no game search, so scroll game list at left side of options creator until you find *Library of Babel*
 
@@ -52,9 +52,9 @@ You must have:
 
 7. Close options creator. Now you have saved your player options, place yamls of other players at same directory.
 
-8. Head back to Archipelago Folder/Archipelago Launcher
+8. Head back to Archipelago Launcher
 
-9. Find ArchipelagoGenerate.exe/Generate, open it
+9. Find *Generate*, open it
 
 10. After window closes itself, go to *[archipelago.gg](https://archipelago.gg/)*
 
