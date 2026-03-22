@@ -24,14 +24,14 @@ You must have:
 2. Install latest version of Archipelago  
    https://github.com/ArchipelagoMW/Archipelago/releases/
 
-3. Download `LOBAP.zip` and `LOBAP.apworld` from the latest release
+3. Download `LOBAP.zip` and `lobap.apworld` from the latest release
 
-4. Extract `LOBAP.zip` into your Library of Ruina folder
+5. Extract `LOBAP.zip` into your Library of Ruina folder
 
    Your folder structure should look like:
    Library of Ruina/BepInEx/
    
-5. Install the apworld:
+6. Install the apworld:
    - Double-click `LOBAP.apworld`
    - It will automatically install into Archipelago
 
