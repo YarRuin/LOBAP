@@ -69,8 +69,11 @@ You must have:
    - Player name
    - Password (if required)
 4. Connect
-##
 
-Probally there will be a lot of bugs, please report them at github issues or discord.
+## Notes
 
-For now mod is on BepInEx, later i'll move it to steam workshop.
+This is the first public release, so bugs are expected.
+
+Please report issues on GitHub or Discord.
+
+The mod currently uses BepInEx. Steam Workshop support may be added later.
