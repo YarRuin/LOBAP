@@ -57,6 +57,7 @@ You must have:
    - Click **Host a pre-generated game**
    - Upload the generated `.zip` file  
      (usually located in `C:\ProgramData\Archipelago\output`)
+   - *Actually you can host locally, without website. If you need so, check [this guide](https://archipelago.gg/tutorial/Archipelago/setup_en)*
 
 6. Create the room
 
