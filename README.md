@@ -76,7 +76,7 @@ You must have:
 
 ## Notes
 
-This is the first public release, so bugs are expected.
+Curently mod isn't stable, bugs are expected.
 
 Please report issues on GitHub or Discord.
 
