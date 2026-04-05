@@ -29,7 +29,10 @@ You must have:
 5. Extract `LOBAP.zip` into your Library of Ruina folder
 
    Your folder structure should look like:
-   Library of Ruina/BepInEx/
+   Library Of Ruina/BepInEx/
+
+   **NOT** like:
+   Library Of Ruina/LOBAP/BepInEx
    
 6. Install the apworld:
    - Double-click `LOBAP.apworld`
