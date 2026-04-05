@@ -1,7 +1,7 @@
 Library of Babel is a mod for Library of Ruina that significantly reworks the game, making it more challenging and engaging.
 
 LOBAP is an Archipelago integration mod for Library of Babel.
-It turns Library of Babel progression (Key/Battle pages, Abnormalities, EGO etc.) into Archipelago items and locations, allowing multiworld randomization with other games.
+It turns Library of Babel progression (Key/Combat pages, Abnormalities, EGO etc.) into Archipelago items and locations, allowing multiworld randomization with other games.
 
 ## ⚠️ Requirements
 
